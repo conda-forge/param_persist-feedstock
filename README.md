@@ -116,5 +116,7 @@ Feedstock Maintainers
 
 * [@gagelarsen](https://github.com/gagelarsen/)
 * [@htran84](https://github.com/htran84/)
+* [@msbrown47](https://github.com/msbrown47/)
+* [@sdc50](https://github.com/sdc50/)
 * [@swainn](https://github.com/swainn/)
 
