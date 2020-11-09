@@ -11,7 +11,7 @@ source:
   sha256: {{ sha256 }}
 
 build:
-  number: 0
+  number: 1
   noarch: python
   script: "{{ PYTHON }} -m pip install . -vv"
 
@@ -39,3 +39,5 @@ extra:
     - swainn
     - htran84
     - gagelarsen
+    - sdc50
+    - msbrown47
